@@ -1,14 +1,14 @@
 {
-  "name": "raganork-md", 
+  "name": "Eren", 
   "version": "3.0.0",
-  "description": "Raganork whatsapp bot- Multi device version.",
-  "main": "./Raganork/index.js",
+  "description": "Eren whatsapp bot- Multi device version.",
+  "main": "./Eren/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "https://chat.whatsapp.com/CN3o6jDPeZNDKqgHeTSbLD"
   },
   "keywords": [
     "whatsapp",
@@ -16,12 +16,12 @@
     "multi-device"
   ],
   "author": "Sourav",
-  "developer": "@souravkl11",
+  "developer": "Eren",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/raganork/issues"
+    "url": "https://chat.whatsapp.com/CN3o6jDPeZNDKqgHeTSbLD"
   },
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://chat.whatsapp.com/CN3o6jDPeZNDKqgHeTSbLD"
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/adiwajshing/Baileys.git",
     "@adiwajshing/keyed-db":"0.2.4",
